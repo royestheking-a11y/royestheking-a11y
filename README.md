@@ -14,19 +14,19 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a passionate **Full-Stack Developer and SaaS Builder** focused on creating high-performance digital products for businesses and startups. I design, develop, and deploy complete systems — from UI/UX to backend architecture.
 
-* 🔨 I build **SaaS platforms, web applications, dashboards, and automation systems**
-* 🏢 Founder of **RizQara Tech — End-to-End Digital Solutions Company**
-* 🌍 Working with clients globally
-* ⚡ Strong focus on **performance, scalability, and clean UI/UX**
-* 💡 I turn ideas into real working products
+* I build **SaaS platforms, web applications, dashboards, and automation systems**
+* Founder of **RizQara Tech — End-to-End Digital Solutions Company**
+* Working with clients globally
+* Strong focus on **performance, scalability, and clean UI/UX**
+* I turn ideas into real working products
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 * Full-Stack Web Development
 * SaaS Product Development
@@ -40,11 +40,11 @@ I am a passionate **Full-Stack Developer and SaaS Builder** focused on creating 
 
 ## 🏆 Achievements & Badges
 
-* 🚀 Built multiple SaaS platforms used by real businesses
-* 🌍 Delivered projects for international and local clients
-* 💼 Founder of a growing digital solutions company
-* ⚡ Specialized in performance-focused web applications
-* 🧠 Strong experience in full-stack system architecture
+* Built multiple SaaS platforms used by real businesses
+* Delivered projects for international and local clients
+* Founder of a growing digital solutions company
+* Specialized in performance-focused web applications
+* Strong experience in full-stack system architecture
 
 ---
 
@@ -145,7 +145,7 @@ I provide complete digital solutions for startups, businesses, and entrepreneurs
 
 ---
 
-## 🎯 What I'm Currently Working On
+## What I'm Currently Working On
 
 * Building scalable SaaS platforms
 * Developing automation systems for businesses
