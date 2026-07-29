@@ -241,6 +241,57 @@ RizQara Tech is a full-service digital solutions company helping businesses buil
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=royestheking-a11y&bg_color=FFFFFF&color=5C0000&line=5C0000&point=C9A84C&area=true&area_color=C9A84C&hide_border=true" width="100%"/>
 </div>
 
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/royestheking-a11y/royestheking-a11y/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> The snake above eats your contribution graph — it's the "arcade" touch that makes people stop scrolling. It needs one small one-time setup below (GitHub can't generate it without your permission to run an Action on your account).
+
+<details>
+<summary>⚙️ One-time setup to activate the snake animation</summary>
+<br/>
+
+1. In this profile repo, go to **Settings → Actions → General** and make sure Actions are enabled.
+2. Add a workflow file at `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: royestheking-a11y
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Run the workflow once manually (**Actions tab → Generate Snake → Run workflow**). After that it refreshes daily on its own, and the image above will animate automatically.
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 ## &nbsp;&nbsp;✦ Let's Build Something
 
 <div align="center">
