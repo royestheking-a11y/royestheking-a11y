@@ -45,7 +45,7 @@ I design, build, and ship complete digital products — from pixel-perfect UI to
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## &nbsp;&nbsp;✦ Featured Projects
+## &nbsp;&nbsp;✦ Flagship Products
 
 <table width="100%">
 <tr>
@@ -85,39 +85,67 @@ Cold outreach and project-management system built for freelancers and agencies.
 
 </td>
 </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
+## &nbsp;&nbsp;✦ Recent Builds
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🌌 SOLARIS
-**Interactive Solar System Visualization**
-A creative portfolio piece exploring orbital mechanics and space rendering on the web.
-`JavaScript` `Canvas/WebGL`
+**🌱 [Shopno Sonchoy](https://github.com/royestheking-a11y/Shopno_Sonchoy)**
+Savings / goal-tracking platform · `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 TraceSearch
-**Reverse Image Search / OSINT Tool**
-Styled frontend for reverse-image lookups and open-source intelligence gathering.
-`React` `OSINT` `API`
+**🌍 [Youth Climate Network](https://github.com/royestheking-a11y/youth-climate-network-)**
+Live platform for a climate advocacy network · `TypeScript`
+<br/><a href="https://www.youthclimatenetworkbd.org/"><img src="https://img.shields.io/badge/LIVE-youthclimatenetworkbd.org-5C0000?style=flat-square&labelColor=C9A84C&logoColor=white"/></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💊 DawaiGhor
-**Online Pharmacy Management System**
-Full inventory, ordering, and management system built for Southeast University coursework.
-`Database` `Management System`
+**🍕 [Pizzora Restaurant](https://github.com/royestheking-a11y/Pizzora_restaurant)**
+Restaurant ordering & showcase site · `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ Velvii
-**Digital Product**
-Part of an expanding portfolio of client-facing web products.
-`Web App`
+**🏛️ [The Higher Academy of Symbols](https://github.com/royestheking-a11y/The-Higher-Academy-of-Symbols)**
+Educational platform · `TypeScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏺 [Museum of Phoenix — Heritage & Civilization](https://github.com/royestheking-a11y/Museum-of-Phoenix-for-Heritage-Civilization)**
+Digital heritage & civilization showcase · `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**⚽ [FIFA World Cup 2026 Live](https://github.com/royestheking-a11y/FIFA-World-Cup-2026-Live---Scores-Schedule-Streams)**
+Live scores, schedule & streams tracker · `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🏥 [Jeevita Healthcare Platform](https://github.com/royestheking-a11y/Jeevita-Healthcare-Platform)**
+Trusted healthcare partner in Bangladesh — quality medical services, digitized · `TypeScript`
+
+</td>
+<td width="50%" valign="top">
+
+**💊 [DawaiGhor](https://github.com/royestheking-a11y/dawai_ghor)**
+Online pharmacy management system · `TypeScript`
 
 </td>
 </tr>
@@ -146,7 +174,33 @@ RizQara Tech is a full-service digital solutions company helping businesses buil
 | ⚙️ **Business Automation** | Custom automation systems that cut operational overhead |
 | 📈 **Digital Marketing & SEO** | Growth-focused marketing and search optimization |
 
+**RizQara Ecosystem on GitHub:**
+⭐ [rizqara_tech](https://github.com/royestheking-a11y/rizqara_tech) &nbsp;·&nbsp; [rizqara-group](https://github.com/royestheking-a11y/rizqara-group) &nbsp;·&nbsp; [rizqara_shop](https://github.com/royestheking-a11y/rizqara_shop-) &nbsp;·&nbsp; [rizzqara](https://github.com/royestheking-a11y/rizzqara) &nbsp;·&nbsp; [rizqara_global_education](https://github.com/royestheking-a11y/rizqara_global_education) &nbsp;·&nbsp; ⭐ [rizqara_extraction](https://github.com/royestheking-a11y/rizqara_extraction) &nbsp;·&nbsp; [rizqara_ghost](https://github.com/royestheking-a11y/rizqara_ghost) &nbsp;·&nbsp; [whatsapp-automate](https://github.com/royestheking-a11y/whatsapp-automate)
+
 <div align="center"><a href="https://www.rizqara.tech"><b>www.rizqara.tech →</b></a></div>
+
+<br/>
+
+<details>
+<summary><b>🗂️ Client & Business Websites Delivered</b> — click to expand</summary>
+<br/>
+
+| Client / Project | Repository |
+|---|---|
+| Safayat Hossein Alif | [safayat-hossein-alif](https://github.com/royestheking-a11y/safayat-hossein-alif) |
+| Museum of Phoenix | [Museum-of-phoenix-](https://github.com/royestheking-a11y/Museum-of-phoenix-) |
+| Mina Yousfi | [Mina-Yousfi](https://github.com/royestheking-a11y/Mina-Yousfi) |
+| Alaa Sherif | [ALAA-SHERIF](https://github.com/royestheking-a11y/ALAA-SHERIF) |
+| Dr. Fatima Fadel Alissawi | [Dr.-Fatima-Fadel-Alissawi](https://github.com/royestheking-a11y/Dr.-Fatima-Fadel-Alissawi) |
+| Hiba Jassousti | [HIBA-JASSOUSTI](https://github.com/royestheking-a11y/HIBA-JASSOUSTI) |
+| Hiba Lahceni | [HIBA-LAHCENI](https://github.com/royestheking-a11y/HIBA-LAHCENI) |
+| Dr. Khairul Islam | [dr-khairul-Islam-website-](https://github.com/royestheking-a11y/dr-khairul-Islam-website-) |
+| MD Sami Portfolio | [mdsami_portfolio-](https://github.com/royestheking-a11y/mdsami_portfolio-) |
+| Habiba Khiry | [Habiba-Khiry](https://github.com/royestheking-a11y/Habiba-Khiry) |
+| LoveDetox — Heal Your Heart | [Lovedetox-heal-your-heart](https://github.com/royestheking-a11y/Lovedetox-heal-your-heart) |
+| Hospital System | [hospital-system](https://github.com/royestheking-a11y/hospital-system) |
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
@@ -186,6 +240,55 @@ RizQara Tech is a full-service digital solutions company helping businesses buil
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=royestheking-a11y&bg_color=FFFFFF&color=5C0000&line=5C0000&point=C9A84C&area=true&area_color=C9A84C&hide_border=true" width="100%"/>
 </div>
+
+### 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/royestheking-a11y/royestheking-a11y/output/github-contribution-grid-snake.svg" width="100%"/>
+</div>
+
+> The snake above eats your contribution graph — it's the "arcade" touch that makes people stop scrolling. It needs one small one-time setup below (GitHub can't generate it without your permission to run an Action on your account).
+
+<details>
+<summary>⚙️ One-time setup to activate the snake animation</summary>
+<br/>
+
+1. In this profile repo, go to **Settings → Actions → General** and make sure Actions are enabled.
+2. Add a workflow file at `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: royestheking-a11y
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Run the workflow once manually (**Actions tab → Generate Snake → Run workflow**). After that it refreshes daily on its own, and the image above will animate automatically.
+
+</details>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
