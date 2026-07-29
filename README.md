@@ -1,204 +1,208 @@
-# Hi there, I'm Aurangzeb Sunny 👋
+<div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=royestheking-a11y\&label=Profile%20Views\&color=0e75b6\&style=flat)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5C0000&height=200&section=header&text=Aurangzeb%20Sunny&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20SaaS%20Architect%20%7C%20Founder%2C%20RizQara%20Tech&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <b>Full-Stack Developer · SaaS Builder · UI/UX Designer</b>
-  <br/>
-  Founder of <b>RizQara Tech</b> · Building Scalable Digital Products Worldwide
-  <br/><br/>
-  <a href="https://aurangzebsunnyy.vercel.app">🌐 Portfolio</a> |
-  <a href="https://www.linkedin.com/in/aurangzebsunny/">💼 LinkedIn</a> |
-  <a href="mailto:aurangzebsunnyy@gmail.com">📧 Email</a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=royestheking-a11y&label=PROFILE%20VIEWS&color=5C0000&style=for-the-badge&labelColor=FFFFFF" />
+&nbsp;
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-C9A84C?style=for-the-badge&labelColor=5C0000" />
 
----
+<br/><br/>
 
-##  About Me
+<a href="https://aurangzebsunnyy.vercel.app">
+<img src="https://img.shields.io/badge/PORTFOLIO-5C0000?style=for-the-badge&logo=vercel&logoColor=C9A84C&labelColor=5C0000" />
+</a>
+<a href="https://www.linkedin.com/in/mizanurrahmansunny/">
+<img src="https://img.shields.io/badge/LINKEDIN-5C0000?style=for-the-badge&logo=linkedin&logoColor=C9A84C&labelColor=5C0000" />
+</a>
+<a href="mailto:aurangzebsunnyy@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-5C0000?style=for-the-badge&logo=gmail&logoColor=C9A84C&labelColor=5C0000" />
+</a>
+<a href="https://www.rizqara.tech">
+<img src="https://img.shields.io/badge/RIZQARA%20TECH-5C0000?style=for-the-badge&logo=google-chrome&logoColor=C9A84C&labelColor=5C0000" />
+</a>
 
-I am a passionate **Full-Stack Developer and SaaS Builder** focused on creating high-performance digital products for businesses and startups. I design, develop, and deploy complete systems — from UI/UX to backend architecture.
+</div>
 
-* I build **SaaS platforms, web applications, dashboards, and automation systems**
-* Founder of **RizQara Tech — End-to-End Digital Solutions Company**
-* Working with clients globally
-* Strong focus on **performance, scalability, and clean UI/UX**
-* I turn ideas into real working products
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## Core Skills
+## &nbsp;&nbsp;✦ About Me
 
-* Full-Stack Web Development
-* SaaS Product Development
-* API Integration & System Architecture
-* UI/UX Design & Prototyping
-* Performance Optimization
-* Database Design
-* Business System Automation
+<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 
----
+I design, build, and ship complete digital products — from pixel-perfect UI to production-grade backend architecture. As **Founder of RizQara Tech**, I lead a 10-person team delivering SaaS platforms, automation systems, and web infrastructure for clients across Bangladesh, the UAE, and beyond.
 
-## 🏆 Achievements & Badges
+- 🏛️ &nbsp;Computer Science & Engineering student, Southeast University, Dhaka
+- 🚀 &nbsp;Founder & Lead Architect, **RizQara Tech** (est. Jan 2025)
+- 🥇 &nbsp;**Gold Medalist**, 47th National Science & Technology Fair — *Admission Bondhu*
+- 🔭 &nbsp;Building **Pengu** (AI Assistant) and **Admission Bondhu** (EdTech) as flagship platforms
+- 🛰️ &nbsp;Competitor, International Astronomy & Astrophysics Competition (IAAC) 2026
+- 💼 &nbsp;Formerly IT Manager at **Daraz Bangladesh Ltd.**
+- 🌍 &nbsp;Open to remote full-time roles, freelance builds, and SaaS partnerships
 
-* Built multiple SaaS platforms used by real businesses
-* Delivered projects for international and local clients
-* Founder of a growing digital solutions company
-* Specialized in performance-focused web applications
-* Strong experience in full-stack system architecture
+<br clear="right"/>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🛠 Tech Stack
+## &nbsp;&nbsp;✦ Featured Projects
 
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
----
+### 🐧 Pengu
+**AI Assistant Platform** · Flagship Product
+Smart, conversational AI assistant built for scale.
+`React` `Node.js` `MongoDB` `REST API`
+<br/><a href="https://pengui.tech"><img src="https://img.shields.io/badge/LIVE-pengui.tech-5C0000?style=flat-square&labelColor=C9A84C&logoColor=white"/></a>
 
-## 🌟 Featured Projects
+</td>
+<td width="50%" valign="top">
 
-### 🐧 Pengu — EdTech SaaS Platform
+### 🎓 Admission Bondhu
+**EdTech Platform** · 🥇 Gold Medal, 47th NSTF
+Connects students with learning resources via smart matching.
+`React` `Node.js` `AI Matching`
 
-AI-powered education platform that connects students with learning resources and smart matching.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Tech Used:
-React · Node.js · MongoDB · REST API
+### 📄 ElevateCV
+**Online CV Builder SaaS**
+Free platform with premium templates, a Canva-style drag-and-drop editor, and PDF/DOCX import.
+`React` `Node.js` `Database`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📂 Get Project — Client Outreach CRM
+### 📂 GetProjects
+**Client Outreach CRM**
+Cold outreach and project-management system built for freelancers and agencies.
+`React` `Node.js` `Email API` `Automation`
 
-Cold outreach and project management system designed for freelancers and agencies.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Tech Used:
-React · Node.js · Email API · Automation
+### 🌌 SOLARIS
+**Interactive Solar System Visualization**
+A creative portfolio piece exploring orbital mechanics and space rendering on the web.
+`JavaScript` `Canvas/WebGL`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 📄 ElevateCV — Online CV Builder
+### 🔍 TraceSearch
+**Reverse Image Search / OSINT Tool**
+Styled frontend for reverse-image lookups and open-source intelligence gathering.
+`React` `OSINT` `API`
 
-Free SaaS platform that allows users to create professional CVs quickly.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Tech Used:
-React · Node.js · Database System
+### 💊 DawaiGhor
+**Online Pharmacy Management System**
+Full inventory, ordering, and management system built for Southeast University coursework.
+`Database` `Management System`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏢 About RizQara Tech
+### ✨ Velvii
+**Digital Product**
+Part of an expanding portfolio of client-facing web products.
+`Web App`
 
-**RizQara Tech** is a digital solutions company that provides complete technology services for businesses.
+</td>
+</tr>
+</table>
 
-Services:
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-* Web Development
-* SaaS Development
-* UI/UX Design
-* Mobile App Development
-* Digital Marketing
-* SEO Optimization
-* System Automation
+## &nbsp;&nbsp;✦ RizQara Tech — Digital Solutions, End to End
 
-We help businesses build reliable digital infrastructure and scale faster.
+<div align="center">
+<img src="https://img.shields.io/badge/FOUNDED-JANUARY%202025-5C0000?style=for-the-badge&labelColor=C9A84C&logoColor=white"/>
+<img src="https://img.shields.io/badge/TEAM-10%2B%20SPECIALISTS-5C0000?style=for-the-badge&labelColor=C9A84C&logoColor=white"/>
+<img src="https://img.shields.io/badge/MARKETS-BANGLADESH%20%C2%B7%20UAE-5C0000?style=for-the-badge&labelColor=C9A84C&logoColor=white"/>
+</div>
 
----
+<br/>
 
-## 🧰 Services for Clients
+RizQara Tech is a full-service digital solutions company helping businesses build reliable technology infrastructure and scale faster — from first line of code to long-term maintenance.
 
-I provide complete digital solutions for startups, businesses, and entrepreneurs.
+| Service | Description |
+|---|---|
+| 🖥️ **Web & SaaS Development** | Custom web apps, SaaS platforms, and dashboards built for performance |
+| 🎨 **UI/UX Design** | End-to-end product design and prototyping |
+| 📱 **Mobile App Development** | Cross-platform mobile products |
+| 🔗 **API & Systems Integration** | Backend architecture and third-party integrations |
+| ⚙️ **Business Automation** | Custom automation systems that cut operational overhead |
+| 📈 **Digital Marketing & SEO** | Growth-focused marketing and search optimization |
 
-* Custom Web Application Development
-* SaaS Platform Development
-* UI/UX Design & Prototyping
-* API Integration & Backend Systems
-* Business Automation Systems
-* Website Performance Optimization
-* Technical Consulting
-* Long-Term Product Maintenance
+<div align="center"><a href="https://www.rizqara.tech"><b>www.rizqara.tech →</b></a></div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 📊 GitHub Stats
+## &nbsp;&nbsp;✦ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=royestheking-a11y&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royestheking-a11y&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://img.shields.io/badge/React-5C0000?style=for-the-badge&logo=react&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/Next.js-5C0000?style=for-the-badge&logo=next.js&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/Node.js-5C0000?style=for-the-badge&logo=node.js&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/Laravel-5C0000?style=for-the-badge&logo=laravel&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/TypeScript-5C0000?style=for-the-badge&logo=typescript&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/JavaScript-5C0000?style=for-the-badge&logo=javascript&logoColor=C9A84C"/>
+<br/>
+<img src="https://img.shields.io/badge/MySQL-5C0000?style=for-the-badge&logo=mysql&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/MongoDB-5C0000?style=for-the-badge&logo=mongodb&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/Figma-5C0000?style=for-the-badge&logo=figma&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/TailwindCSS-5C0000?style=for-the-badge&logo=tailwindcss&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/Git-5C0000?style=for-the-badge&logo=git&logoColor=C9A84C"/>
+<img src="https://img.shields.io/badge/Vercel-5C0000?style=for-the-badge&logo=vercel&logoColor=C9A84C"/>
 
----
+</div>
 
-## 📈 Contribution Activity
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=royestheking-a11y\&theme=tokyo-night)
+## &nbsp;&nbsp;✦ GitHub Analytics
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=royestheking-a11y&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=5C0000&icon_color=C9A84C&text_color=333333&border_radius=12" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royestheking-a11y&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=5C0000&text_color=333333&border_radius=12" width="30%"/>
+</div>
 
-## What I'm Currently Working On
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=royestheking-a11y&hide_border=true&background=FFFFFF&stroke=5C0000&ring=5C0000&fire=C9A84C&currStreakLabel=5C0000&sideLabels=5C0000&currStreakNum=333333&sideNums=333333&dates=999999" width="60%"/>
+</div>
 
-* Building scalable SaaS platforms
-* Developing automation systems for businesses
-* Improving performance and UI/UX for production apps
-* Expanding global client network
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=royestheking-a11y&bg_color=FFFFFF&color=5C0000&line=5C0000&point=C9A84C&area=true&area_color=C9A84C&hide_border=true" width="100%"/>
+</div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🤝 Let's Work Together
+## &nbsp;&nbsp;✦ Let's Build Something
 
-I am open to:
+<div align="center">
 
-* Remote Full-Time Opportunities
-* Freelance Projects
-* SaaS Development Partnerships
-* Startup Collaboration
+I'm currently available for **remote full-time roles**, **freelance projects**, **SaaS partnerships**, and **startup collaborations**.
 
----
+<a href="mailto:aurangzebsunnyy@gmail.com">
+<img src="https://img.shields.io/badge/LET'S%20TALK-5C0000?style=for-the-badge&logo=gmail&logoColor=C9A84C&labelColor=5C0000"/>
+</a>
 
-## 🌍 Worked With Companies & Brands
+<br/><br/>
 
-I have collaborated with startups, agencies, and business teams across different industries including technology, education, e-commerce, and service businesses.
+⭐ &nbsp;*If any of this resonates, a star on my repos goes a long way.*
 
-* Business Automation Projects
-* SaaS Platform Development
-* Website & System Development
-* Digital Infrastructure Support
+</div>
 
----
-
-## 💼 Hiring / Open To Work
-
-I am currently available for:
-
-* Remote Full-Time Roles
-* Freelance Development Projects
-* Long-Term Technical Partnerships
-* Startup Collaboration Opportunities
-
----
-
-## 🚀 Startup & Founder Positioning
-
-Founder of **RizQara Tech**, focused on building scalable digital products and helping businesses transform ideas into real systems. My mission is to create reliable technology solutions that drive growth and efficiency.
-
----
-
-## 📫 Contact Me
-
-Email: [aurangzebsunnyy@gmail.com](mailto:aurangzebsunnyy@gmail.com)
-Portfolio: [https://aurangzebsunnyy.vercel.app](https://aurangzebsunnyy.vercel.app)
-Company Website: [https://www.rizqara.tech](https://www.rizqara.tech)
-
----
-
-⭐ If you like my work, consider following my profile or starring my repositories.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5C0000&height=100&section=footer" width="100%"/>
